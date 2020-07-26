@@ -1,2 +1,2 @@
-# werden-antivirus
+# Werden Antivirus
 A open antivirus for everyone.
